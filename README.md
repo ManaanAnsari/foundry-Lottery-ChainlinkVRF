@@ -1,17 +1,17 @@
 ## todos
 
-1. User can enter by paying for a ticket
-   - ticket fees go to the wiiner after
-2. After X period of time, lottery will automatically draw a winner
-   - automated
-3. chainlink
-   - vrf -> randomness
-   - automation -> time based trigger
+- [x] User can enter by paying for a ticket
+  - [x] ticket fees go to the wiiner after
+- [x] After X period of time, lottery will automatically draw a winner
+  - [x] automated
+- [x] chainlink
+  - [x] vrf -> randomness
+  - [x] automation -> time based trigger
 
 ## Tests
 
-1. deploy scripts
-2. Tests
-   - work on local
-   - forked testnet
-   - forked mainnet
+- [x] deploy scripts
+- [x] Tests
+  - [x] work on local
+  - [x] forked testnet
+  - [x] forked mainnet
